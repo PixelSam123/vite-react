@@ -338,7 +338,7 @@ npx degit FADHsquared/vite-react your-project-name
    ```diff
      import React from 'react'
      import ReactDOM from 'react-dom'
-     import './index.css'
+     import './styles/globals.css'
    + import { HelmetProvider } from 'react-helmet-async'
      import App from './App'
 

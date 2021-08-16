@@ -7,7 +7,7 @@ A Vite React template inspired by the folder structure of Next.js.
 Create a local copy of this template with this command:
 
 ```
-npx degit FADHsquared/react-vite your-project-name
+npx degit FADHsquared/vite-react your-project-name
 ```
 
 ## Notes

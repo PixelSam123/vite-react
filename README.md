@@ -2,6 +2,14 @@
 
 A Vite React template inspired by the folder structure of Next.js.
 
+## Using this template
+
+Create a local copy of this template with this command:
+
+```
+npx degit FADHsquared/react-vite your-project-name
+```
+
 ## Notes
 
 - Place static assets in `src/assets`, pages in `src/pages`, and styles in `src/styles`.
